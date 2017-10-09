@@ -8,7 +8,7 @@ permalink: console
 <!--<script src="https://gist.github.com/JonathanMagnan/28d5c09a2d55f93df351555c5f564682.js"></script>!-->
 <script src="https://gist.github.com/JonathanMagnan/a9e5098422e1616b9f74b3d650ad9bb5.js"></script>
 <div class="console" style="display:none;">
-	<iframe id="fiddle-console" src="/console-iframe" style="height: 100%; width: 100%; border:0;"></iframe>
+	<iframe id="fiddle-console" src="https://zzzprojects.github.io/fiddler-dev/console-iframe" style="height: 100%; width: 100%; border:0;"></iframe>
 </div>
 <style>
 .btn-run-outer {
