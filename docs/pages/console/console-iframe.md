@@ -39,7 +39,7 @@ permalink: console-iframe
 
 					<div class="ml-auto p-2 bd-highlight">
 						<div class="justify-content-end">
-							<i>Keep Fiddle Free &nbsp;</i> <img src="http://sqlfiddle.com/images/btn_donate_SM.gif" />
+							<i>Keep Fiddle Free &nbsp;</i> <img src="https://zzzprojects.github.io/fiddler-dev/images/btn_donate_SM.gif" />
 						</div>
 					</div>
 				</div>
