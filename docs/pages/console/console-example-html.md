@@ -3,7 +3,7 @@ layout: post
 permalink: console-example-html
 ---
 
-<script src="/js/fiddle-console-0.0.1.js"></script>
+<script src="{{ site.github.url }}/js/fiddle-console-0.0.1.js"></script>
 
 // User can use his own code highlighter or use the one we will provide with our API
 
