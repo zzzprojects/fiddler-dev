@@ -2,10 +2,13 @@
 layout: post
 ---
 
-# Page
+# .NET Console
 
-- [InPage Console](console)
+- [Gist Example](console-example-gist)
+- [Fiddle Example](console-example-fiddle)
+- [HTML Example](console-example-html)
 
+---
 
 # Test
 - [Fiddle Copy](fiddle-copy)
